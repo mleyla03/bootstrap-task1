@@ -1,0 +1,24 @@
+.services{
+    color:#37517E ;
+    font-weight: bold;
+    font-size: 35px;
+}
+i{
+    font-size: 30px;
+    color:#47B2E4 ;
+}
+.card-title{
+    color:#37517E !important ;
+}
+.card-title:hover{
+    color: #47B2E4 !important;
+    cursor: pointer;
+}
+.card{
+     
+    transition: all ease 0.8s;
+}
+.card:hover{
+    cursor: pointer;
+    transform: translateY(-8px);
+}
